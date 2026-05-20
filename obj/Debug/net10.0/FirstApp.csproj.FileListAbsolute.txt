@@ -1,0 +1,14 @@
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/bin/Debug/net10.0/FirstApp
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/bin/Debug/net10.0/FirstApp.deps.json
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/bin/Debug/net10.0/FirstApp.runtimeconfig.json
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/bin/Debug/net10.0/FirstApp.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/bin/Debug/net10.0/FirstApp.pdb
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.AssemblyInfoInputs.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.AssemblyInfo.cs
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.csproj.CoreCompileInputs.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/refint/FirstApp.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.pdb
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/FirstApp.genruntimeconfig.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/FirstApp/obj/Debug/net10.0/ref/FirstApp.dll
