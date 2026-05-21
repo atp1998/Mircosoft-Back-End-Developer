@@ -20,8 +20,6 @@ Remove products - The application must allow the user to delete a specific produ
 
 ## Introduction to programming with C#
 
-## Foundations of Coding
-
 Implemented the second project about Library Management System using C#.
 
 Objective : To develop a console application that allows users to efficiently manage a small library collection. This project ensures accurate data handling so that book records, borrowing limits, and checkout status reflect real-time user actions.
@@ -42,7 +40,7 @@ Checkout / Check-in - The application must allow the user to toggle the checkout
 
 View Inventory - The application must display the full list of books along with their checkout status after every action.
 
-<img width="900" height="520" alt="Library Management Flow Diagram" src="library_flow_diagram.png" />
+<img width="900" height="520" alt="Library Management Flow Diagram" src="https://github.com/atp1998/Mircosoft-Back-End-Developer/blob/main/Introduction%20to%20programming%20with%20C%20%23/library_flow_diagram.png" />
 
 ### Key Code Snippets
 
