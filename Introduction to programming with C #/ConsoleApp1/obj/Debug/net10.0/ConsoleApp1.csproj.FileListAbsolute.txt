@@ -1,0 +1,17 @@
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/bin/Debug/net10.0/Pastel.dll
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/obj/Debug/net10.0/ConsoleA.CB28C8CC.Up2Date

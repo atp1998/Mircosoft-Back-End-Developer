@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsYJU0lRIh4=",
+  "success": true,
+  "projectFilePath": "/Users/aungthuphyo/Desktop/Back-End Coursera/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/aungthuphyo/.nuget/packages/pastel/7.0.1/pastel.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
